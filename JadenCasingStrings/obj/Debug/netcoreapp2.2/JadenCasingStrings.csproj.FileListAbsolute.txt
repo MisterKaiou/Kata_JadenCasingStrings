@@ -1,0 +1,9 @@
+C:\Users\kaio_\Documents\Visual Studio Projects\Kata_JadenCasingStrings\JadenCasingStrings\bin\Debug\netcoreapp2.2\JadenCasingStrings.deps.json
+C:\Users\kaio_\Documents\Visual Studio Projects\Kata_JadenCasingStrings\JadenCasingStrings\bin\Debug\netcoreapp2.2\JadenCasingStrings.dll
+C:\Users\kaio_\Documents\Visual Studio Projects\Kata_JadenCasingStrings\JadenCasingStrings\bin\Debug\netcoreapp2.2\JadenCasingStrings.pdb
+C:\Users\kaio_\Documents\Visual Studio Projects\Kata_JadenCasingStrings\JadenCasingStrings\obj\Debug\netcoreapp2.2\JadenCasingStrings.csprojAssemblyReference.cache
+C:\Users\kaio_\Documents\Visual Studio Projects\Kata_JadenCasingStrings\JadenCasingStrings\obj\Debug\netcoreapp2.2\JadenCasingStrings.csproj.CoreCompileInputs.cache
+C:\Users\kaio_\Documents\Visual Studio Projects\Kata_JadenCasingStrings\JadenCasingStrings\obj\Debug\netcoreapp2.2\JadenCasingStrings.AssemblyInfoInputs.cache
+C:\Users\kaio_\Documents\Visual Studio Projects\Kata_JadenCasingStrings\JadenCasingStrings\obj\Debug\netcoreapp2.2\JadenCasingStrings.AssemblyInfo.cs
+C:\Users\kaio_\Documents\Visual Studio Projects\Kata_JadenCasingStrings\JadenCasingStrings\obj\Debug\netcoreapp2.2\JadenCasingStrings.dll
+C:\Users\kaio_\Documents\Visual Studio Projects\Kata_JadenCasingStrings\JadenCasingStrings\obj\Debug\netcoreapp2.2\JadenCasingStrings.pdb
